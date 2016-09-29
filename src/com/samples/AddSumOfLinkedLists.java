@@ -33,7 +33,7 @@ public class AddSumOfLinkedLists
 		LinkedList<Integer> list2 = new LinkedList<>();
 		list2.add(8);
 		list2.add(6);
-		list2.add(7);
+		list2.add(4);
 
 		long l1Num = convertListToInt(list1);
 		long l2Num = convertListToInt(list2);
